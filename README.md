@@ -1,8 +1,7 @@
 ![Aditya Vikram Singh Banner](https://static-cdn.jtvnw.net/jtv_user_pictures/23125350-8ef5-414b-a947-5a689f9f53f5-profile_banner-480.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Maximo</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Maximo -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
