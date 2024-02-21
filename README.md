@@ -10,7 +10,7 @@
 🌱 &nbsp;My focus is on applying this knowledge to the design and development of games, with a keen interest in artificial intelligence applied to gaming, system design for interactive experiences, and cloud architecture for scalable gaming environments.\
 ✍️ &nbsp;In my free time, I delve into the fascinating realm of pixel art, crafting artwork for games. I also enjoy exploring the creative possibilities of Unity to bring my ideas to life.\
 💬 &nbsp;I'm available for discussions on game development, pixel art, Unity, or any interesting topics you'd like to share.\
-✉️ &nbsp;You can shoot me an email at makiu642@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at makiu642@gmail.com I'll try to respond as soon as I can.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
