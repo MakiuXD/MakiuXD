@@ -12,7 +12,7 @@
 💬 &nbsp;I'm available for discussions on game development, pixel art, Unity, or any interesting topics you'd like to share.\
 ✉️ &nbsp;You can shoot me an email at makiu642@gmail.com I'll try to respond as soon as I can.\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://media3.giphy.com/media/aE9bmI2lm5ZhGTjB5H/giphy.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
