@@ -31,6 +31,5 @@
 
 [![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=MakiuXD&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=MakiuXD&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
